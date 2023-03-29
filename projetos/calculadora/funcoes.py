@@ -23,6 +23,8 @@ def divisao_aux(a,b):
   
 def divisao(a,b):
   return operacoes(a,b,divisao_aux,'/');
-       
+
+def multiplicacao(a,b):
+  return operacoes(a,b,lambda x,y: x*y,'*');       
   
   

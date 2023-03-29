@@ -1,7 +1,7 @@
 from funcoes import *;
 import sys;
 
-funcoes_menu={'adicao':adicao, '+':adicao,'subtracao':subtracao,'-':subtracao, 'divisao':divisao,'/':divisao};
+funcoes_menu={'adicao':adicao, '+':adicao,'subtracao':subtracao,'-':subtracao, 'divisao':divisao,'/':divisao,'multiplicacao':multiplicacao,'*':multiplicacao};
 
 def calcule():
   while (True):
