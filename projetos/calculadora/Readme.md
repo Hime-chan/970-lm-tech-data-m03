@@ -2,4 +2,4 @@
 
 ### Projetos:
  
-- Calculadora 1
+- Calculadora: Projeto da primeira aula de técnicas de programação sobre o conteúdo Git (GitHub).
