@@ -27,4 +27,7 @@ def divisao(a,b):
 def multiplicacao(a,b):
   return operacoes(a,b,lambda x,y: x*y,'*');       
   
+def sair(a,b):
+  return 'Obrigada por usar o programa! Até mais!';
+  
   
